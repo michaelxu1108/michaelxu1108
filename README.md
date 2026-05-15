@@ -1,4 +1,4 @@
-# Hi there, I'm Kuan-Wen Hsu 👋
+# Hi there, I'm Michael Xu 👋
 
 > Software Engineer · Graduate Researcher · Automation Enthusiast
 
@@ -52,13 +52,6 @@ Software engineer from Taiwan, currently pursuing a part-time Master's in Automa
 - 📲 Building Flutter apps with BLE integration for wearable IoT devices
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelxu1108&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelxu1108&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
 
 ---
 
