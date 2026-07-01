@@ -59,8 +59,6 @@ Software engineer from Taiwan, currently pursuing a part-time Master's in Automa
 
 - 🇹🇼 Chinese — Native
 - 🇬🇧 English — Professional
-- 🇯🇵 Japanese — Intermediate (JLPT N2)
-
 ---
 
 ## 📬 Get in Touch
